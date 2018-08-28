@@ -1,13 +1,13 @@
-AMDGPU Firmware Drivers for Debian/Ubuntu (22-07-2018)
+AMDGPU Firmware Drivers for Debian/Ubuntu (28-08-2018)
 ======================================================
 
 ### Firmware Downloads:
 
   * **Debian Stretch/Buster:**
-    * [firmware-amd-graphics_20180722-1_all.deb](https://github.com/q3aql/amdgpu-firmware-update/releases/download/22072018/firmware-amd-graphics_20180722-1_all.deb)
+    * [firmware-amd-graphics_20180828-1_all.deb](https://github.com/q3aql/amdgpu-firmware-update/releases/download/v3.0/firmware-amd-graphics_20180828-1_all.deb)
 
   * **Ubuntu 17.10/18.04:**
-    * [linux-firmware_20180722-1_all.deb](https://github.com/q3aql/amdgpu-firmware-update/releases/download/22072018/linux-firmware_20180722-1_all.deb)
+    * [linux-firmware_20180828-1_all.deb](https://github.com/q3aql/amdgpu-firmware-update/releases/download/v3.0/linux-firmware_20180828-1_all.deb)
 
 _Note: Firmware for Debian include 3D acceleration for Raven Ridge._
 
