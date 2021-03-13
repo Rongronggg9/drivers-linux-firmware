@@ -1,0 +1,38 @@
+#!/bin/bash
+
+#########################################################
+# drivers-linux-firmware: Sync drivers to /lib/firmware #
+# Autor: q3aql                                          #
+# Contacto: q3aql@protonmail.ch                         #
+# Licencia: GPL v2.0                                    #
+#########################################################
+VERSION="1.0"
+
+# Config path
+dir_source=/opt/drivers-linux-firmware
+dir_destination=/lib/firmware
+
+# Create destination path if not exist
+mkdir -p ${dir_destination}
+
+# Check if you are root
+mkdir -p /etc/root &> /dev/null
+administrator=$?
+if [ ${administrator} -eq 0 ] ; then
+  rm -rf /etc/root
+else
+  echo ""
+  echo "* drivers-linux-firmware ${VERSION}"
+  echo ""
+  echo "* You must be root"
+  echo ""
+  exit
+fi
+
+# Sync driver files
+rsync -avzh --delete ${dir_source}/ ${dir_destination}/
+
+# Run update-initramfs
+if [ -x /usr/sbin/update-initramfs ]; then
+  /usr/sbin/update-initramfs -u -k all
+fi
