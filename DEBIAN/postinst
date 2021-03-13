@@ -1,0 +1,10 @@
+#!/bin/sh
+
+set -e
+
+drivers-linux-firmware
+#if [ -x /usr/sbin/update-initramfs ]; then
+#	/usr/sbin/update-initramfs -u -k all
+#fi
+
+

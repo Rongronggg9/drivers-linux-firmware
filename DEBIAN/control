@@ -1,0 +1,11 @@
+Package: drivers-linux-firmware
+Version: 20210222-1
+Architecture: all
+Maintainer: q3aql <q3aql@protonmail.ch>
+Installed-Size: 640644
+Section: misc
+Priority: optional
+Multi-Arch: foreign
+Depends: bash, cron, anacron, rsync
+Description: Firmware for Linux kernel drivers
+ This package provides firmware used by Linux kernel drivers.
