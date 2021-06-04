@@ -1,8 +1,8 @@
 Package: drivers-linux-firmware
-Version: 20210327-1
+Version: 20210604-1
 Architecture: all
 Maintainer: q3aql <q3aql@protonmail.ch>
-Installed-Size: 657544
+Installed-Size: 690544
 Section: misc
 Priority: optional
 Multi-Arch: foreign

@@ -1,21 +1,21 @@
-Updated drivers from Linux-Firmware for Debian/Ubuntu (27-03-2021)
+Updated drivers from Linux-Firmware for Debian/Ubuntu (04-06-2021)
 ==================================================================
 
 ### Download:
 
-  * **Debian `Buster`/`Bullseye` or Ubuntu `18.04`/`18.10`/`19.04`/`19.10`/`20.04`/`20.10`:**
+  * **Debian `Buster`/`Bullseye` or Ubuntu `18.04`/`18.10`/`19.04`/`19.10`/`20.04`/`20.10`/`21.04`:**
 
-    * [`drivers-linux-firmware_20210327-1_all.deb`](https://github.com/q3aql/drivers-linux-firmware/releases/download/v18.0/drivers-linux-firmware_20210327-1_all.deb)
+    * [`drivers-linux-firmware_20210604-1_all.deb`](https://github.com/q3aql/drivers-linux-firmware/releases/download/v19.0/drivers-linux-firmware_20210604-1_all.deb)
 
 _Important: It is recommended to use kernel 4.15 or higher._
 
 ### Old downloads:
 
+  * [`drivers-linux-firmware_20210327-1_all.deb`](https://github.com/q3aql/drivers-linux-firmware/releases/download/v18.0/drivers-linux-firmware_20210327-1_all.deb)
   * [`drivers-linux-firmware_20210222-1_all.deb`](https://github.com/q3aql/drivers-linux-firmware/releases/download/v17.0/drivers-linux-firmware_20210222-1_all.deb)
   * [`drivers-linux-firmware_20201004-1_all.deb`](https://github.com/q3aql/drivers-linux-firmware/releases/download/v16.0/drivers-linux-firmware_20201004-1_all.deb)
   * [`drivers-linux-firmware_20200815-1_all.deb`](https://github.com/q3aql/drivers-linux-firmware/releases/download/v15.0/drivers-linux-firmware_20200815-1_all.deb)
   * [`drivers-linux-firmware_20200206-1_all.deb`](https://github.com/q3aql/drivers-linux-firmware/releases/download/v14.0/drivers-linux-firmware_20200206-1_all.deb)
-  * [`drivers-linux-firmware_20200119-1_all.deb`](https://github.com/q3aql/drivers-linux-firmware/releases/download/v13.0/drivers-linux-firmware_20200119-1_all.deb)
 
 
 ### Important:
