@@ -1,8 +1,8 @@
 Package: drivers-linux-firmware
-Version: 20210829-1
+Version: 20220406-1
 Architecture: all
 Maintainer: q3aql <q3aql@duck.com>
-Installed-Size: 704544
+Installed-Size: 823544
 Section: misc
 Priority: optional
 Multi-Arch: foreign
