@@ -3,7 +3,7 @@ Updated drivers from Linux-Firmware for Debian/Ubuntu (18-08-2022)
 
 ### Download:
 
-  * **Debian `Buster`/`Bullseye` or Ubuntu ``20.04`/`21.10`/`22.04`:**
+  * **Debian `Buster`/`Bullseye` or Ubuntu `20.04`/`21.10`/`22.04`:**
 
     * [`drivers-linux-firmware_20220818-1_all.deb`](https://github.com/q3aql/drivers-linux-firmware/releases/download/v26.0/drivers-linux-firmware_20220818-1_all.deb)
 
